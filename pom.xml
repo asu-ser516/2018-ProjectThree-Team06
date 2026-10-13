@@ -14,9 +14,10 @@
     <!--
         Keep all Jetty components on the same version.
         This project targets Java 8, so it remains on the Jetty 9.4 line.
+         <jetty.version>9.4.57.v20241219</jetty.version>
     -->
     <properties>
-        <jetty.version>9.4.57.v20241219</jetty.version>
+        <jetty.version>9.61</jetty.version>
     </properties>
 
     <dependencies>
